@@ -1,44 +1,44 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Richelle C Moskvichev",
+    "label": "Researcher",
+    "picture": "https://github.com/rcabatic.png",
+    "email": "rum@hawaii.edu",
+    "phone": "808-349-7044",
+    "website": "https://rcabatic.github.io",
+    "summary": "I work for the Climate Resilience Collaborative. ",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "rcabatic", "url": "http://github.com/rcabatic" },
+      { "network": "linkedin", "username": "Richelle Moskvichev", "url": "https://www.linkedin.com/in/richelle-cabatic-moskvichev/" },
+      { "network": "twitter", "username": "CabaticRichelle", "url": "http://twitter.com/CabaticRichelle" },
+      { "network": "instagram", "username": "_Chellestial", "url": "http://instagram.com/_chellestial" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Climate Change" },
+    { "name": "Conservation Biology" },
+    { "name": "Planetary Science" },
+    { "name": "Art" },
+    { "name": "Community Science" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["Matlab", "Python", "ARCGIS", "HTML/CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Oregon, Eugene, OR",
+      "area": "Physics (Honors), Computer Information Science (Minor)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "09-2015",
+      "endDate": "06-2019",
       "courses": [
       ]
     }
